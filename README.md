@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyinho&label=Profile%20views&color=0e75b6&style=flat" alt="andyinho" /> </p>
 
-<p align="left"> <a href="https://twitter.com/andresftwin" target="blank"><img src="https://img.shields.io/twitter/follow/andresftwin?logo=twitter&style=for-the-badge" alt="andresftwin" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/andresftwin" target="blank"><img src="https://img.shields.io/twitter/follow/andresftwin?logo=twitter&style=for-the-badge" alt="andresftwin" /></a> </p> -->
 
 - 🔭 I’m currently working on [my Blog Website](https://github.com/andyinho/BlogWebsite)
 
