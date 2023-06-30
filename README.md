@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andres</h1>
-<h3 align="center">A passionate frontend developer from Portland, OR</h3>
+<!-- <h3 align="center">A passionate frontend developer from Portland, OR</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyinho&label=Profile%20views&color=0e75b6&style=flat" alt="andyinho" /> </p>
 
