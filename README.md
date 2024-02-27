@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/andresftwin" target="blank"><img src="https://img.shields.io/twitter/follow/andresftwin?logo=twitter&style=for-the-badge" alt="andresftwin" /></a> </p> -->
 
-- 🔭 I’m currently working on [my Blog Website](https://github.com/andyinho/BlogWebsite)
+- 🔭 I’m currently working on a [Live Score App](https://github.com/andyinho/OnSideFutbol)
 
 - 🌱 I’m currently learning **React, Express, MongoDB, NodeJS, and JS**
 
