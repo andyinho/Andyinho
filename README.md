@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on a [Live Score App](https://github.com/andyinho/OnSideFutbol)
 
-- 🌱 I’m currently learning **React, Express, MongoDB, NodeJS, and JS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/andyinho](https://github.com/andyinho)
 
 - ⚡ Fun fact: **I played D2 college soccer**
