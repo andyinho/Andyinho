@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Andres</h1>
-<!-- <h3 align="center">A passionate frontend developer from Portland, OR</h3> -->
+<!-- <h3 align="center">A passionate full-stack developer!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andyinho&label=Profile%20views&color=0e75b6&style=flat" alt="andyinho" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/andresftwin" target="blank"><img src="https://img.shields.io/twitter/follow/andresftwin?logo=twitter&style=for-the-badge" alt="andresftwin" /></a> </p> -->
 
-- 🔭 I’m currently working on a [Live Score App](https://github.com/andyinho/OnSideFutbol)
+- 🔭 I’m currently working on a [Notafi](https://notafi.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/andyinho](https://github.com/andyinho)
 
