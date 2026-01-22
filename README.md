@@ -53,14 +53,19 @@ I also enjoy soccer and backpacking as ways to unwind and spend time away from a
 </p>
 
 <h2>🤝 Let's Connect</h2>
-<a href="mailto:andresbchamonica@gmail.com">
+
+<p>
 <img src="https://i.postimg.cc/5ywSzR9F/logos_google_gmail.png" width="16" height="16" alt="Email" />
+<a href="mailto:andresbchamonica@gmail.com">
 <span>Email</span>
 </a>
-<br/>
-<a href="https://www.linkedin.com/in/andyinho/">
+</p>
+
+<p>
 <img src="https://i.postimg.cc/44t5jm6Q/skill_icons_linkedin.png" width="16" height="16" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/andyinho/">
 <span>LinkedIn</span>
 </a>
+</p>
 
 </div>
