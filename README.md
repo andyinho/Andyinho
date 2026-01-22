@@ -12,7 +12,7 @@
         border-radius: 20px;
         box-shadow: 0 12px 32px rgba(0, 0, 0, 0.25);
         "
-        src="https://im.vsco.co/aws-us-west-2/116467/4760517/6971a996777ae747744f8ed2/vsco_012126.jpg?w=1200" alt="Hello, Im Andres. A Full-Stack Developer"
+        src="https://i.postimg.cc/VLbL1PG5/Andres_coding_in_the_mountains.png" alt="Hello, Im Andres. A Full-Stack Developer"
         >
 </div>
 
