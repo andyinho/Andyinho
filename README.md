@@ -56,13 +56,7 @@ I also enjoy soccer and backpacking as ways to unwind and spend time away from a
 <h2>🤝 Let's Connect</h2>
 
 <a href="mailto:andresbchamonica@gmail.com" style="text-decoration:none; color:#000000; display:inline-flex; align-items:center; gap:6px;">
-<svg
-xmlns="http://www.w3.org/2000/svg"
-width="16"
-height="16"
-viewBox="0 0 256 256"
-aria-hidden="true"
->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 256 256" aria-hidden="true">
 <g fill="none">
 <rect width="256" height="256" fill="#f4f2ed" rx="60"/>
 <path fill="#4285f4" d="M41.636 203.039h31.818v-77.273L28 91.676v97.727c0 7.545 6.114 13.636 13.636 13.636"/>
@@ -72,23 +66,13 @@ aria-hidden="true"
 <path fill="#c5221f" d="M28 73.493v18.182l45.454 34.091v-59.09L60.727 57.13C47.227 47.016 28 56.63 28 73.493"/>
 </g>
 </svg>
-<span style="text-decoration:none;">Email</span>
+<span>Email</span>
 </a>
 
 <br />
 
-<a
-href="https://www.linkedin.com/in/andyinho/"
-target="_blank"
-style="text-decoration:none; color:#000000; display:inline-flex; align-items:center; gap:6px;"
->
-<svg
-xmlns="http://www.w3.org/2000/svg"
-width="16"
-height="16"
-viewBox="0 0 256 256"
-aria-hidden="true"
->
+<a href="https://www.linkedin.com/in/andyinho/" target="_blank" style="text-decoration:none; color:#000000; display:inline-flex; align-items:center; gap:6px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 256 256" aria-hidden="true">
 <g fill="none">
 <rect width="256" height="256" fill="#0a66c2" rx="60"/>
 <path fill="#fff" d="M184.715 217.685h29.27a4 4 0 0 0 4-3.999l.015-61.842c0-32.323-6.965-57.168-44.738-57.168c-14.359-.534-27.9 6.868-35.207 19.228a.32.32 0 0 1-.595-.161V101.66a4 4 0 0 0-4-4h-27.777a4 4 0 0 0-4 4v112.02a4 4 0 0 0 4 4h29.268a4 4 0 0 0 4-4v-55.373c0-15.657 2.97-30.82 22.381-30.82c19.135 0 19.383 17.916 19.383 31.834v54.364a4 4 0 0 0 4 4"/>
@@ -96,7 +80,7 @@ aria-hidden="true"
 <path fill="#fff" d="M44.959 217.686h29.307a4 4 0 0 0 4-4V101.66a4 4 0 0 0-4-4H44.959a4 4 0 0 0-4 4v112.025a4 4 0 0 0 4 4"/>
 </g>
 </svg>
-<span style="text-decoration:none;">LinkedIn</span>
+<span>LinkedIn</span>
 </a>
 
 </div>
