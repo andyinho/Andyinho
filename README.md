@@ -1,6 +1,6 @@
 <div>
 <img
-src="https://i.postimg.cc/VLbL1PG5/Andres_coding_in_the_mountains.png"
+src="https://i.postimg.cc/cCrryKjj/California-Code.png"
 alt="Andres coding in the mountains, healthcare-focused full-stack software engineer"
 />
 </div>
